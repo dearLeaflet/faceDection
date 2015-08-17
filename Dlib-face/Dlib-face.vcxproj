@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="face_detection_ex.cpp" />
+    <ClCompile Include="face_landmark_detection_ex.cpp" />
     <ClCompile Include="jcapimin.cpp" />
     <ClCompile Include="jcapistd.cpp" />
     <ClCompile Include="jccoefct.cpp" />

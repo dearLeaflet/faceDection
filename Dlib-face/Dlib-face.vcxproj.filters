@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="face_detection_ex.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="source.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -151,6 +148,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="jutils.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="face_landmark_detection_ex.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

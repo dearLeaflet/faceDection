@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 
         // Loop over all the images provided on the command line.
             array2d<unsigned char> img;
-			string imgPath = "../images/1.jpg";
+			string imgPath = "../images/3.jpg";
             load_image(img, imgPath);
             // Make the image bigger by a factor of two.  This is useful since
             // the face detector looks for faces that are about 80 by 80 pixels
